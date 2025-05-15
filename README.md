@@ -2,7 +2,7 @@
 Convert a podcast script into audio
 
 ## Usage
-- Install ffmpeg on host, e.g. `apt install update && apt install ffmpeg`
+- Install ffmpeg on host, e.g. `apt update && apt install ffmpeg`
 - Create and enable virtualenv: `virtualenv venv && . venv/bin/activate`
 - Install Python dependencies: `pip install -r requirements.txt`
 - Run code: `python podcast.py`
